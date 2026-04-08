@@ -1,0 +1,18 @@
+{
+  "_comment": "Rapid Mastery 配置文件",
+  "default_depth": "apply",
+  "default_time_budget": "1day",
+  "quiz_question_count": 5,
+  "enable_project_mode": true,
+  "preferred_analogies": ["编程", "生活", "自然科学"],
+  "output_language": "zh-CN",
+  "strict_mode": false,
+  "skip_steps": [],
+  "reminder_enabled": true,
+  "reminder_times": ["1day", "3day", "7day", "30day"],
+  "user_preferences": {
+    "learning_style": "引导式问答",
+    "guiding_questions": true,
+    "note": "用户偏好通过提问引导而非直接给答案，采用费曼式追问帮助理解"
+  }
+}
